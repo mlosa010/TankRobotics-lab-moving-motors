@@ -18,7 +18,7 @@ class Vehecle {
     
   private:
     int w =0;
-    int v = 255;
+    int v = 161;
     int m_pwm1;
     int m_pwm2;
     int m_dir1;
